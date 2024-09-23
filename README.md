@@ -13,7 +13,6 @@ This project is a **Digital Clock** built with **HTML**, **CSS**, and **JavaScri
 - Real-time clock showing hours, minutes, and seconds.
 - Neon-styled text with customizable color.
 - Smooth, continuous updates every second.
-- Fully responsive for different screen sizes.
 - Clean and minimalistic design with a digital clock look.
 
 ## Technologies Used
